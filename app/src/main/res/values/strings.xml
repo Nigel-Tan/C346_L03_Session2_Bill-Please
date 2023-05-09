@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Demo Simple Click</string>
-    <string name="txtInput">Enter Something</string>
-    <string name="txtView">Display what user enters</string>
-    <string name="disabled">Disabled</string>
-    <string name="enabled">Enabled</string>
-</resources>
